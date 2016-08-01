@@ -3,7 +3,7 @@ A list of project ideas, possibly for FYP or just learning.
 
 #### Android PC Controller
 * Allows users to connect to PC with a pin.
-* Auto discovers available PCs on the network.
+* Auto discovers available PCs on the network. (Multicast).
 * Can set privileges. i.e. (KeyB and Mouse, Webcam, Admin).
 * Can remove other devices if admin.
 * Add GUI to PC to view devices, blacklist devices.
@@ -17,3 +17,17 @@ A list of project ideas, possibly for FYP or just learning.
 * Have a Raspberry Pi 3 in each room with speakers.
 * When you travel to that room the music should follow.
 * Detect the user by checking the strength of the bluetooth signal on their phone.
+
+#### Raspberry Pi Car Audio / Video System (Headless)
+* Create an app which can talk to the RPi over bluetooth.
+* Put a webserver on the Pi which can stream it's music / videos.
+* Turn on your phones Hotspot.
+* Tell the RPi your logon details.
+* Ask for it's IP Address.
+* Connect over your phones web browser and play songs that are on the Pi.
+* Watch videos / movies that are on the Pi.
+ 
+#### Gesture Tracker for PC
+* Using your webcam, track the movements of your hands to control the mouse.
+* Put your hand into a fist and back to click etc.
+* Wave your hand to bring up an on-screen keyboard.
