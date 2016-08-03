@@ -31,3 +31,9 @@ A list of project ideas, possibly for FYP or just learning.
 * Using your webcam, track the movements of your hands to control the mouse.
 * Put your hand into a fist and back to click etc.
 * Wave your hand to bring up an on-screen keyboard.
+
+#### Face Recognition with Tensor Flow
+* Try create a face recognition system with Tensor Flow.
+* Allows a user to lock/unlock things on their machine.
+* Not sure if Tensor Flow can say an image is NOT a user.
+* Or if it has to guess that the image IS the user if there's only one user.
