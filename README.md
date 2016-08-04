@@ -37,8 +37,3 @@ A list of project ideas, possibly for FYP or just learning.
 * Allows a user to lock/unlock things on their machine.
 * Not sure if Tensor Flow can say an image is NOT a user.
 * Or if it has to guess that the image IS the user if there's only one user.
-
-#### Image to Text
-* Create an Android app which takes a picture of text.
-* Send image to server which can remove each letter from the image.
-* Send each letter image through Tensor Flow and find out the image text.
