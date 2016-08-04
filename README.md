@@ -32,8 +32,8 @@ A list of project ideas, possibly for FYP or just learning.
 * Put your hand into a fist and back to click etc.
 * Wave your hand to bring up an on-screen keyboard.
 
-#### Face Recognition with Tensor Flow
-* Try create a face recognition system with Tensor Flow.
+#### Face Recognition with OpenCV and SciKit-Learn
 * Allows a user to lock/unlock things on their machine.
-* Not sure if Tensor Flow can say an image is NOT a user.
-* Or if it has to guess that the image IS the user if there's only one user.
+* Scans your face a few times to gather information.
+* Scans your face and gives a percentage possibility that it is you.
+* If < some percent then don't unlock.
