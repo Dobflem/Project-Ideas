@@ -37,3 +37,13 @@ A list of project ideas, possibly for FYP or just learning.
 * Scans your face a few times to gather information.
 * Scans your face and gives a percentage possibility that it is you.
 * If < some percent then don't unlock.
+
+#### Raspberry Pi Security JARVIS
+* Recognises certain people
+* If an unrecognised person is on screen
+  * Send picture to phone
+  * Wake up screen - with programmed face
+  * Follow them around with on screen eyes
+  * Ask them, their name
+  * Save their name once answered
+  * Ask other questions
